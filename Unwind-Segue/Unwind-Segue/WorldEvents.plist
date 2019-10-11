@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>The first Cadillac automobile called the Runabout is introduced.</key>
+	<array>
+		<string>1902</string>
+		<string>https://en.wikipedia.org/wiki/Cadillac_Runabout_and_Tonneau</string>
+	</array>
+	<key>The first Rolls-Royce 30 hp motor vehicle is introduced.</key>
+	<array>
+		<string>1905</string>
+		<string>https://en.wikipedia.org/wiki/Rolls-Royce_30_hp</string>
+	</array>
+	<key>The first automobile by Ford is released called the Model T.</key>
+	<array>
+		<string>1908</string>
+		<string>https://www.history.com/this-day-in-history/ford-motor-company-unveils-the-model-t</string>
+	</array>
+	<key>Bugatti&apos;s first car called the Type 13 hits the market.</key>
+	<array>
+		<string>1914</string>
+		<string>https://www.supercars.net/blog/1921-bugatti-type-13/</string>
+	</array>
+	<key>Mercedes-Benz introduces it&apos;s first car called the Typ 400.</key>
+	<array>
+		<string>1926</string>
+		<string>https://en.wikipedia.org/wiki/Mercedes_15/70/100_PS</string>
+	</array>
+	<key>Maserati introduces it&apos;s first car called the Tipo 26 .</key>
+	<array>
+		<string>1927</string>
+		<string>https://www.maserati.com/international/en/brand/our-story/history-timeline</string>
+	</array>
+	<key>BMW joins the car business with it&apos;s first car called the 3/15</key>
+	<array>
+		<string>1928</string>
+		<string>https://en.wikipedia.org/wiki/History_of_BMW</string>
+	</array>
+	<key>Jaguar releases it&apos;s first car called the SS!.</key>
+	<array>
+		<string>1935</string>
+		<string>https://www.jaguarusa.com/about-jaguar/heritage/index.html</string>
+	</array>
+	<key>Volkswagen releases it&apos;s popular car of the times called the Beetle.</key>
+	<array>
+		<string>1938</string>
+		<string>http://www.classic-car-history.com/volkswagen-beetle-history.htm</string>
+	</array>
+	<key>Ferrari builds it&apos;s first sportscar called the 125 S.</key>
+	<array>
+		<string>1947</string>
+		<string>https://corporate.ferrari.com/en/about-us/history</string>
+	</array>
+	<key>British automaker Aston Martin releases it&apos;s model DB2 for sale.</key>
+	<array>
+		<string>1950</string>
+		<string>https://www.topspeed.com/cars/aston-martin/1950-aston-martin-db2-vantage-ar171099.html</string>
+	</array>
+	<key>Chevrolet&apos;s first sportscar the Corvette is introduced.</key>
+	<array>
+		<string>1953</string>
+		<string>https://www.corvettemuseum.org/learn/about-corvette/</string>
+	</array>
+	<key>Ford&apos;s iconic Thunderbird car first hits the market.</key>
+	<array>
+		<string>1954</string>
+		<string>https://www.boston.com/cars/news-and-reviews/2015/07/01/10-years-ago-ford-made-its-final-thunderbird</string>
+	</array>
+	<key>Lotus sexy sportscar the Mark VII is introduced.</key>
+	<array>
+		<string>1957</string>
+		<string>https://www.caranddriver.com/features/a15130329/lotus-a-historical-timeline/</string>
+	</array>
+	<key>BMC compact car the Mini first hits the market.</key>
+	<array>
+		<string>1959</string>
+		<string>https://www.miniusa.com/why-mini/why-mini/over-60-years-of-motoring.html</string>
+	</array>
+	<key>The first Porche 911 hits the market.</key>
+	<array>
+		<string>1963</string>
+		<string>https://www.roadandtrack.com/car-culture/g6434/a-walk-through-history-of-the-porsche-911/</string>
+	</array>
+	<key>Lamborghini&apos;s first super sportscar the 350GT is introduced.</key>
+	<array>
+		<string>1964</string>
+		<string>https://en.wikipedia.org/wiki/Lamborghini_350_GT</string>
+	</array>
+	<key>The first Dodge Charger muscle car hits the market.</key>
+	<array>
+		<string>1965</string>
+		<string>https://www.autoevolution.com/dodge/charger/</string>
+	</array>
+	<key>The Ford GT40 winner of many world races comes out.</key>
+	<array>
+		<string>1966</string>
+		<string>https://www.forbes.com/sites/kbrauer/2018/06/11/ford-gt-three-generations-and-50-years-of-le-mans-racing-heritage/#a9a87e176b7f</string>
+	</array>
+	<key>GM introduces it&apos;s first Chevrolet Z28.</key>
+	<array>
+		<string>1967</string>
+		<string>https://en.wikipedia.org/wiki/Trans-Am_production_cars#Chevrolet_Z/28_Camaro</string>
+	</array>
+	<key>Honda joins the car business with it&apos;s N600.</key>
+	<array>
+		<string>1969</string>
+		<string>https://www.autonationhonda104.com/honda-history.htm</string>
+	</array>
+	<key>DMC&apos;s first and only car the DeLorean is introduced.</key>
+	<array>
+		<string>1975</string>
+		<string>https://en.wikipedia.org/wiki/DeLorean_Motor_Company</string>
+	</array>
+	<key>The first Hummer H1 sports utility vehicle hits the market.</key>
+	<array>
+		<string>1992</string>
+		<string>https://www.history.com/this-day-in-history/the-origins-of-the-hummer</string>
+	</array>
+	<key>Toyota&apos;s popular hybrid vehicle the Prius is first introduced.</key>
+	<array>
+		<string>1997</string>
+		<string>https://www.greencarreports.com/news/1014178_toyota-prius-a-brief-history-in-time</string>
+	</array>
+	<key>Tesla introduces it&apos;s first all electric powered Roadster.</key>
+	<array>
+		<string>2008</string>
+		<string>https://www.britannica.com/topic/Tesla-Motors</string>
+	</array>
+</dict>
+</plist>

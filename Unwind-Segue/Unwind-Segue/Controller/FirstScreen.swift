@@ -37,7 +37,7 @@ class FirstScreen: UIViewController {
     
     //MARK: - Stored Properties
     var game: BoutTimeGame
-    var gameTimer: Timer!
+    weak var gameTimer: Timer!
     var timerRunning = false
     var secondsLeft = 60
     var userSetEvents = [BoutTimeEvent]()
@@ -278,6 +278,7 @@ class FirstScreen: UIViewController {
     func startTimer() {
         timerLabel.text = "\(secondsLeft)"
         if !timerRunning {
+            gameTimer?.invalidate()
             gameTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(timeOutHandler), userInfo: nil, repeats: true)
             timerRunning = true
         }

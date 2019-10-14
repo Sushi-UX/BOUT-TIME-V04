@@ -2,6 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Karl Benz starts production of the first gasoline powered car.</key>
+	<array>
+		<string>1888</string>
+		<string>https://www.automostory.com/first-gasoline-car.htm</string>
+	</array>
+	<key>William Morrison creates the first successful electric vehicle.</key>
+	<array>
+		<string>1889</string>
+		<string>https://www.energy.gov/timeline/timeline-history-electric-car</string>
+	</array>
+	<key>Rudolf Diesel invents the first biofuel diesel car that runs on peanut oil.</key>
+	<array>
+		<string>1893</string>
+		<string>https://www.automostory.com/first-diesel-car.htm</string>
+	</array>
+	<key>Ford introduces it’s first convertible vehicle the Quadricycle.</key>
+	<array>
+		<string>1896</string>
+		<string>https://corporate.ford.com/history.html</string>
+	</array>
 	<key>The first Cadillac automobile called the Runabout is introduced.</key>
 	<array>
 		<string>1902</string>
@@ -12,17 +32,32 @@
 		<string>1905</string>
 		<string>https://en.wikipedia.org/wiki/Rolls-Royce_30_hp</string>
 	</array>
-	<key>The first automobile by Ford is released called the Model T.</key>
+	<key>The Ford Model T automobile is introduced.</key>
 	<array>
 		<string>1908</string>
 		<string>https://www.history.com/this-day-in-history/ford-motor-company-unveils-the-model-t</string>
+	</array>
+	<key>Alfa later know as Alfa Romeo introduces it’s first automobile the 24HP.</key>
+	<array>
+		<string>1910</string>
+		<string>https://www.alfaromeousa.com/a-story-that-made-history</string>
 	</array>
 	<key>Bugatti&apos;s first car called the Type 13 hits the market.</key>
 	<array>
 		<string>1914</string>
 		<string>https://www.supercars.net/blog/1921-bugatti-type-13/</string>
 	</array>
-	<key>Mercedes-Benz introduces it&apos;s first car called the Typ 400.</key>
+	<key>Ford offers the first ever pick-up truck called the Model TT.</key>
+	<array>
+		<string>1917</string>
+		<string>https://corporate.ford.com/history.html</string>
+	</array>
+	<key>A short lived car company Star introduces the first factory built station wagon.</key>
+	<array>
+		<string>1923</string>
+		<string>https://www.theatlantic.com/technology/archive/2014/07/the-last-great-gasp-of-the-american-station-wagon/373776/</string>
+	</array>
+	<key>Mercedes-Benz introduces one of it&apos;s first cars called the Typ 400.</key>
 	<array>
 		<string>1926</string>
 		<string>https://en.wikipedia.org/wiki/Mercedes_15/70/100_PS</string>
@@ -42,10 +77,25 @@
 		<string>1935</string>
 		<string>https://www.jaguarusa.com/about-jaguar/heritage/index.html</string>
 	</array>
-	<key>Volkswagen releases it&apos;s popular car of the times called the Beetle.</key>
+	<key>Ford assembles one of it’s first own “Woodie” Station Wagons.</key>
 	<array>
 		<string>1938</string>
-		<string>http://www.classic-car-history.com/volkswagen-beetle-history.htm</string>
+		<string>https://www.thehenryford.org/collections-and-research/digital-collections/artifact/14085</string>
+	</array>
+	<key>Packard Motor Car Co. introduces the first air conditioned car.</key>
+	<array>
+		<string>1940</string>
+		<string>https://www.autonews.com/article/19960626/ANA/606260705/packard-brought-air-conditioning-out-of-the-realm-of-rube-goldberg</string>
+	</array>
+	<key>The Jeep CJ-2A first ever utility vehicle for civilians hits the market.</key>
+	<array>
+		<string>1945</string>
+		<string>https://www.motortrend.com/news/1945-jeep-cj2a-classic/</string>
+	</array>
+	<key>Volkswagen produces the first VW Beetles for consumers.</key>
+	<array>
+		<string>1946</string>
+		<string>https://www.forbes.com/sites/msolomon/2018/09/14/luxury-lineage-a-brief-history-of-the-volkswagen-beetle/#1cd7ff265048</string>
 	</array>
 	<key>Ferrari builds it&apos;s first sportscar called the 125 S.</key>
 	<array>
@@ -92,7 +142,7 @@
 		<string>1965</string>
 		<string>https://www.autoevolution.com/dodge/charger/</string>
 	</array>
-	<key>The Ford GT40 winner of many world races comes out.</key>
+	<key>The Ford GT40 winner of many Le Mans races comes out.</key>
 	<array>
 		<string>1966</string>
 		<string>https://www.forbes.com/sites/kbrauer/2018/06/11/ford-gt-three-generations-and-50-years-of-le-mans-racing-heritage/#a9a87e176b7f</string>
@@ -112,6 +162,11 @@
 		<string>1975</string>
 		<string>https://en.wikipedia.org/wiki/DeLorean_Motor_Company</string>
 	</array>
+	<key>The first Mazda RX-7 rotary engine vehicle sold in America is introduced.</key>
+	<array>
+		<string>1978</string>
+		<string>https://www.roadandtrack.com/car-culture/classic-cars/a22037831/the-mazda-rx-7-turns-40/</string>
+	</array>
 	<key>The first Hummer H1 sports utility vehicle hits the market.</key>
 	<array>
 		<string>1992</string>
@@ -122,10 +177,30 @@
 		<string>1997</string>
 		<string>https://www.greencarreports.com/news/1014178_toyota-prius-a-brief-history-in-time</string>
 	</array>
+	<key>Smart introduces it’s ultra compact Fortwo city coupe in Europe.</key>
+	<array>
+		<string>1998</string>
+		<string>https://media.daimler.com/marsMediaSite/en/instance/ko/Model-history-A-smart-family.xhtml?oid=9274429</string>
+	</array>
 	<key>Tesla introduces it&apos;s first all electric powered Roadster.</key>
 	<array>
 		<string>2008</string>
 		<string>https://www.britannica.com/topic/Tesla-Motors</string>
+	</array>
+	<key>Chinese company Ehang introduces the first single passenger flying drone vehicle.</key>
+	<array>
+		<string>2016</string>
+		<string>https://www.theguardian.com/technology/2016/jan/07/first-passenger-drone-makes-world-debut</string>
+	</array>
+	<key>Waymo introduces the first self driving car service.</key>
+	<array>
+		<string>2018</string>
+		<string>https://www.wired.com/story/guide-self-driving-cars/</string>
+	</array>
+	<key>Bugatti reveals the limited production Chiron SS which has a max speed over 300 mph.</key>
+	<array>
+		<string>2019</string>
+		<string>https://www.caranddriver.com/news/a28927762/bugatti-chiron-super-sport-300-photos-info/</string>
 	</array>
 </dict>
 </plist>
